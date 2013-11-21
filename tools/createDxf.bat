@@ -1,0 +1,1 @@
+pstoedit\pstoedit.exe -v -dis -dt -f dxf:-polyaslines logo.eps logo.dxf
